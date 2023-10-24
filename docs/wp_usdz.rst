@@ -2,7 +2,7 @@
 
 .. raw:: html
  
-  <meta http-equiv="refresh" content="0;url=wp_usdz.html"/>
+  <meta http-equiv="refresh" content="0;url=spec_usdz.html"/>
 
 ==============================
 Usdz File Format Specification
