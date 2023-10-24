@@ -8,4 +8,4 @@
 Usdz File Format Specification
 ==============================
 
-This page has moved to :doc:`spec_usdz`
+This page has moved to :doc:`./spec_usdz`
